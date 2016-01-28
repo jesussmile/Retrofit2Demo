@@ -10,20 +10,20 @@ public class Flower {
     //to convert Json into java class use @Expose
     @Expose
     private String category;
-    @Expose
 
+    @Expose
     private double price;
-    @Expose
 
+    @Expose
     private String instructions;
-    @Expose
 
+    @Expose
     private String photo;
-    @Expose
 
+    @Expose
     private String name;
-    @Expose
 
+    @Expose
     private int productId;
 
 
